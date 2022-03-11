@@ -7,7 +7,7 @@
 - Finalicé curso de Java avanzado en febrero y me encuentro repasando Spring framework, pero esta vez reforzando, aplicando SOLID y patrones de diseño. 
 - En mi actual roadmap autodidacta tengo microservicios , spring cloud en breve.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Puedes contactarte por:</h3>
 <ul>
   <li> Podes contactarme via E-mail: adrianfr2011@gmail.com </li>
  <li> Podes contactarme via Skype: adrianutn </li>
