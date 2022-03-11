@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hello world! 👋 Soy Adrián 🙂</h1>
-<h3 align="center"> Soy desarrollador FullStack junior, pero me apasiona el backEnd java :man: , tengo 30 años aunque en la foto no se note :suspect:  </h3>
+<h3 align="center"> Soy desarrollador FullStack junior, pero me apasiona el backEnd JAVA :man: , tengo 30 años aunque en foto no se note :suspect:  </h3>
 
 - 🤝 Me gusta el trabajo en equipo, poder compartir ideas, llevarlas a cabo y aprender algo nuevo de las personas con las que me vinculo día a día. 
 - En mis breaks siempre me notaran enseñando/debatiendo sobre programación en servidores populares de discord o jugando Ajedrez.
