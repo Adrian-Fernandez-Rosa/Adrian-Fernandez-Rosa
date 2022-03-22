@@ -9,12 +9,12 @@
 
 <h3 align="left">Puedes contactarte por:</h3>
 <ul>
-  <li> Podes contactarme via E-mail: adrianfr2011@gmail.com </li>
+  <li> Podes contactarme via E-mail: [![Gmail Badge](https://img.shields.io/badge/-adrianfr2011@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrianfr2011@gmail.com)](mailto:adrianfr2011@gmail.com) </li>
  <li> Podes contactarme via Skype: adrianutn </li>
   </ul>
 
 [![Linkedin Badge](https://img.shields.io/badge/-AdriánFernándezRosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrian-fernandez-rosa/)](https://www.linkedin.com/in/adrian-fernandez-rosa/)
-[![Gmail Badge](https://img.shields.io/badge/-adrianfr2011@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrianfr2011@gmail.com)](mailto:adrianfr2011@gmail.com)
+
 
 * Tecnologías y lenguajes
 <p align="left">
