@@ -19,6 +19,7 @@ Podes contactarme via Linkedin: [![Linkedin Badge](https://img.shields.io/badge/
 * Tecnologías y lenguajes
 <p align="left">
   <a>
+     Mi GITLAB: 
   <img src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -29,7 +30,7 @@ Podes contactarme via Linkedin: [![Linkedin Badge](https://img.shields.io/badge/
 <img src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sql Server" width="40" height="40"/>
 <img src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/tomcat/tomcat-original-wordmark.svg" alt="apache tomcat" width="40" height="40"/>   
  <img src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>   
-    
+    MI GITLAB: <a href="https://gitlab.com/Adrian-Fernandez-Rosa">https://gitlab.com/Adrian-Fernandez-Rosa</a>
  
    
 </p>
