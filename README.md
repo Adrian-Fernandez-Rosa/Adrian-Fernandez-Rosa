@@ -5,7 +5,7 @@
 - 🤝 Me gusta el trabajo en equipo, poder compartir ideas, llevarlas a cabo y aprender algo nuevo de las personas con las que me vinculo día a día. 
 - En mis breaks siempre me notaran enseñando/debatiendo sobre programación en servidores populares de discord o jugando Ajedrez.
 - Finalicé curso de Java avanzado en febrero y me encuentro repasando Spring framework, pero esta vez reforzando, aplicando SOLID y patrones de diseño. 
-- En mi actual roadmap autodidacta tengo microservicios , spring cloud en breve.
+
 
 <h3 align="left">Puedes contactarte por:</h3>
 
