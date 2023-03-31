@@ -4,8 +4,7 @@
 
 - 🤝 Me gusta el trabajo en equipo, poder compartir ideas, llevarlas a cabo y aprender algo nuevo de las personas con las que me vinculo día a día. 
 - En mis breaks siempre me notaran enseñando/debatiendo sobre programación en servidores populares de discord o jugando Ajedrez.
-- Me especialicé en Java y Spring, actualmente por tener la carrera arruinada como dev JAVA tanto por el ex staff de EGG Cooperación , EGG Educación y la companía.
-  me encuentro estudiando MERN para emprender.
+- Me especialicé en Java y Spring, actualmente me encuentro estudiando MERN para emprender, aunque sería genial trabajar en equipo y participar de las dialy y todas  las ceremonias scrum
   
   
  
@@ -44,10 +43,7 @@ resolviendo ejercicios de algoritmia avanzada grupalmente.
    
 * Por medio del sistema de votos entre compañer@s de la plataforma de EGG Cooperación, fui votado como el segundo mejor facilitador de una comisión compuesta por 100 estudiantes.
    
-  Aplicamos la teoría incorrecta dada a la práctica y logramos proyectos funcionales.
-   Con esa misma teoría muchos fuimos a entrevistas de empresas importantes y fallamos porque nos dieron una teoría incorrecta luego del cambio de profesor.
-   El cambio de profesor se dio cuando el primer profesor hizo una puesta en escena digna de Hollywood para renunciar, en realidad era que la compañía quería
-   quitar ese buen profesor de nuestra comisión que tenía contrato con el Ministerio de trabajo de Argentina y reubicarlo en una comisión paga, ya que la empresa se      encontraba en crecimiento. Esto lo puedo decir porque los abogados que consulto el grupo de comisión 2 tienen todos los videos de las clases además de las       grabaciones que proporcionaron los compañeros donde hay frases como "JPA es lo mismo que hibernate" entre muchas más. Actualmente además de sufrir las consecuencias económicas de esto, sufro constantes ataques a mi privado de Linkedin del ex staff de EGG tratándome como basura por contar esto. actualmente casi 55 integrantes de la comisión siguen sin trabajo de programador. Las demas comisiones tuvieron excelentes profesores logrando más del 65 % de inserción laboral de los alumnos regulares (datos sacados con bots http escaneando linkedin y github)
+
 
 
 </p>
