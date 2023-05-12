@@ -39,7 +39,7 @@ Podes contactarme via Linkedin: [![Linkedin Badge](https://img.shields.io/badge/
      </br>
    * Realizamos en un equipo de 8 personas el proyecto final de curso de Programando Comunidades usando Spring MVC, Spring Security, JAVA 11, SQL, JPA, JDBC.
   * Después del cambio de "profesor" a mitad de cursado los mejores 5 facilitadores de la comisión mentoreamos a más de 10 "alumn@s" diarios con pedagogía y
-resolviendo ejercicios de algoritmia avanzada grupalmente.
+resolviendo ejercicios de algoritmia avanzada grupalmente tomando el rol del profesor.
    
 * Por medio del sistema de votos entre compañer@s de la plataforma de EGG Cooperación, fui votado como el segundo mejor facilitador de una comisión compuesta por 100 estudiantes.
    
