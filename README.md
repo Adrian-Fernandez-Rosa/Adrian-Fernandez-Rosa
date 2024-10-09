@@ -11,7 +11,7 @@
 
 <h3 align="left">Puedes contactarte por:</h3>
 
-   Podes contactarme via E-mail:  [![Gmail Badge](https://img.shields.io/badge/-adrianfr2011@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrianfr2011@gmail.com)](mailto:adrianfr2011@gmail.com) </li>
+   Podes contactarme via E-mail:  [![Gmail Badge](https://img.shields.io/badge/-adrianfr2011@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrianfernandezrosa23@gmail.com)](mailto:adrianfernandezrosa23@gmail.com) </li>
    
 Podes contactarme via Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-AdriánFernándezRosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrian-fernandez-rosa/)](https://www.linkedin.com/in/adrian-fernandez-rosa/)
 
