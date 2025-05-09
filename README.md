@@ -34,13 +34,7 @@ Podes contactarme via Linkedin: [![Linkedin Badge](https://img.shields.io/badge/
  <img src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>   
     MI GITLAB: <a href="https://gitlab.com/Adrian-Fernandez-Rosa">https://gitlab.com/Adrian-Fernandez-Rosa</a>
  
-   ** Experiencia EGG Educación EGG Cooperación.
-     </br>
-   * Realizamos en un equipo de 8 personas el proyecto final de curso de Programando Comunidades usando Spring MVC, Spring Security, JAVA 11, SQL, JPA, JDBC.
-  * Después del cambio de "profesor" a mitad de cursado los mejores 5 facilitadores de la comisión mentoreamos a más de 10 "alumn@s" diarios con pedagogía y
-resolviendo ejercicios de algoritmia avanzada grupalmente tomando el rol del profesor.
-   
-* Por medio del sistema de votos entre compañer@s de la plataforma de EGG Cooperación, fui votado como el segundo mejor facilitador de una comisión compuesta por 100 estudiantes.
+
    
 
 
